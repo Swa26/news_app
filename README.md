@@ -35,7 +35,7 @@ Installation
 
 Clone the repository:
 bash
-git clone https://github.com/yourusername/news_app.git
+git clone https://github.com/Swa26/news_app.git
 
 Navigate into the project directory:
 bash
